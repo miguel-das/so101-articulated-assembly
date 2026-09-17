@@ -1,0 +1,498 @@
+[
+  {
+    "name": "C079_Bus_Servo_Adapter_A_v3_1",
+    "label": "Bus Servo Adapter (A) v3:1",
+    "file": "Hardware/C079_Bus_Servo_Adapter_A_v3_1.FCStd",
+    "object": "C079_Bus_Servo_Adapter_A_v3_1",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "C082_050375033_v3_1",
+    "label": "050375033 v3:1",
+    "file": "Hardware/C082_050375033_v3_1.FCStd",
+    "object": "C082_050375033_v3_1",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "C083_050375033_v3_2",
+    "label": "050375033 v3:2",
+    "file": "Hardware/C083_050375033_v3_2.FCStd",
+    "object": "C083_050375033_v3_2",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Base_SO101",
+    "label": "Base_SO101",
+    "file": "PrintedParts/Base_SO101.FCStd",
+    "object": "Base_SO101",
+    "printed": true,
+    "empty": false
+  },
+  {
+    "name": "Rotation_Pitch_SO101",
+    "label": "Rotation_Pitch_SO101",
+    "file": "PrintedParts/Rotation_Pitch_SO101.FCStd",
+    "object": "Rotation_Pitch_SO101",
+    "printed": true,
+    "empty": false
+  },
+  {
+    "name": "Upper_arm_SO101",
+    "label": "Upper_arm_SO101",
+    "file": "PrintedParts/Upper_arm_SO101.FCStd",
+    "object": "Upper_arm_SO101",
+    "printed": true,
+    "empty": false
+  },
+  {
+    "name": "Under_arm_SO101",
+    "label": "Under_arm_SO101",
+    "file": "PrintedParts/Under_arm_SO101.FCStd",
+    "object": "Under_arm_SO101",
+    "printed": true,
+    "empty": false
+  },
+  {
+    "name": "Base_08p",
+    "label": "Base_08p",
+    "file": "PrintedParts/Base_08p.FCStd",
+    "object": "Base_08p",
+    "printed": true,
+    "empty": false
+  },
+  {
+    "name": "Motor_holder_SO101_Base",
+    "label": "Motor_holder_SO101_Base",
+    "file": "PrintedParts/Motor_holder_SO101_Base.FCStd",
+    "object": "Motor_holder_SO101_Base",
+    "printed": true,
+    "empty": false
+  },
+  {
+    "name": "Motor_holder_SO101_Wrist",
+    "label": "Motor_holder_SO101_Wrist",
+    "file": "PrintedParts/Motor_holder_SO101_Wrist.FCStd",
+    "object": "Motor_holder_SO101_Wrist",
+    "printed": true,
+    "empty": false
+  },
+  {
+    "name": "Wrist_Roll_Pitch_SO100",
+    "label": "Wrist_Roll_Pitch_SO100",
+    "file": "PrintedParts/Wrist_Roll_Pitch_SO100.FCStd",
+    "object": "Wrist_Roll_Pitch_SO100",
+    "printed": true,
+    "empty": false
+  },
+  {
+    "name": "WristRoll_FixedJaw",
+    "label": "WristRoll_FixedJaw",
+    "file": "PrintedParts/WristRoll_FixedJaw.FCStd",
+    "object": "WristRoll_FixedJaw",
+    "printed": true,
+    "empty": false
+  },
+  {
+    "name": "MovingJaw",
+    "label": "MovingJaw",
+    "file": "PrintedParts/MovingJaw.FCStd",
+    "object": "MovingJaw",
+    "printed": true,
+    "empty": false
+  },
+  {
+    "name": "WaveShare_Mounting_Plate_SO101",
+    "label": "WaveShare_Mounting_Plate_SO101",
+    "file": "PrintedParts/WaveShare_Mounting_Plate_SO101.FCStd",
+    "object": "WaveShare_Mounting_Plate_SO101",
+    "printed": true,
+    "empty": false
+  },
+  {
+    "name": "Servo1_Case",
+    "label": "Servo1_Case",
+    "file": "Hardware/Servo1_Case.FCStd",
+    "object": "Servo1_Case",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo1_FrontCover",
+    "label": "Servo1_FrontCover",
+    "file": "Hardware/Servo1_FrontCover.FCStd",
+    "object": "Servo1_FrontCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo1_RearCover",
+    "label": "Servo1_RearCover",
+    "file": "Hardware/Servo1_RearCover.FCStd",
+    "object": "Servo1_RearCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo1_MotorCore",
+    "label": "Servo1_MotorCore",
+    "file": "Hardware/Servo1_MotorCore.FCStd",
+    "object": "Servo1_MotorCore",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo1_PCB",
+    "label": "Servo1_PCB",
+    "file": "Hardware/Servo1_PCB.FCStd",
+    "object": "Servo1_PCB",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo1_OutputGear_Component",
+    "label": "Servo1_OutputGear",
+    "file": "Hardware/Servo1_OutputGear_Component.FCStd",
+    "object": "Servo1_OutputGear_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo1_DriveHorn_Component",
+    "label": "Servo1_DriveHorn",
+    "file": "Hardware/Servo1_DriveHorn_Component.FCStd",
+    "object": "Servo1_DriveHorn_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo1_PassiveHorn_Component",
+    "label": "Servo1_PassiveHorn",
+    "file": "Hardware/Servo1_PassiveHorn_Component.FCStd",
+    "object": "Servo1_PassiveHorn_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo2_Case",
+    "label": "Servo2_Case",
+    "file": "Hardware/Servo2_Case.FCStd",
+    "object": "Servo2_Case",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo2_FrontCover",
+    "label": "Servo2_FrontCover",
+    "file": "Hardware/Servo2_FrontCover.FCStd",
+    "object": "Servo2_FrontCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo2_RearCover",
+    "label": "Servo2_RearCover",
+    "file": "Hardware/Servo2_RearCover.FCStd",
+    "object": "Servo2_RearCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo2_MotorCore",
+    "label": "Servo2_MotorCore",
+    "file": "Hardware/Servo2_MotorCore.FCStd",
+    "object": "Servo2_MotorCore",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo2_PCB",
+    "label": "Servo2_PCB",
+    "file": "Hardware/Servo2_PCB.FCStd",
+    "object": "Servo2_PCB",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo2_OutputGear_Component",
+    "label": "Servo2_OutputGear",
+    "file": "Hardware/Servo2_OutputGear_Component.FCStd",
+    "object": "Servo2_OutputGear_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo2_DriveHorn_Component",
+    "label": "Servo2_DriveHorn",
+    "file": "Hardware/Servo2_DriveHorn_Component.FCStd",
+    "object": "Servo2_DriveHorn_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo2_PassiveHorn_Component",
+    "label": "Servo2_PassiveHorn",
+    "file": "Hardware/Servo2_PassiveHorn_Component.FCStd",
+    "object": "Servo2_PassiveHorn_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo3_Case",
+    "label": "Servo3_Case",
+    "file": "Hardware/Servo3_Case.FCStd",
+    "object": "Servo3_Case",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo3_FrontCover",
+    "label": "Servo3_FrontCover",
+    "file": "Hardware/Servo3_FrontCover.FCStd",
+    "object": "Servo3_FrontCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo3_RearCover",
+    "label": "Servo3_RearCover",
+    "file": "Hardware/Servo3_RearCover.FCStd",
+    "object": "Servo3_RearCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo3_MotorCore",
+    "label": "Servo3_MotorCore",
+    "file": "Hardware/Servo3_MotorCore.FCStd",
+    "object": "Servo3_MotorCore",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo3_PCB",
+    "label": "Servo3_PCB",
+    "file": "Hardware/Servo3_PCB.FCStd",
+    "object": "Servo3_PCB",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo3_OutputGear_Component",
+    "label": "Servo3_OutputGear",
+    "file": "Hardware/Servo3_OutputGear_Component.FCStd",
+    "object": "Servo3_OutputGear_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo3_DriveHorn_Component",
+    "label": "Servo3_DriveHorn",
+    "file": "Hardware/Servo3_DriveHorn_Component.FCStd",
+    "object": "Servo3_DriveHorn_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo3_PassiveHorn_Component",
+    "label": "Servo3_PassiveHorn",
+    "file": "Hardware/Servo3_PassiveHorn_Component.FCStd",
+    "object": "Servo3_PassiveHorn_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo4_Case",
+    "label": "Servo4_Case",
+    "file": "Hardware/Servo4_Case.FCStd",
+    "object": "Servo4_Case",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo4_FrontCover",
+    "label": "Servo4_FrontCover",
+    "file": "Hardware/Servo4_FrontCover.FCStd",
+    "object": "Servo4_FrontCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo4_RearCover",
+    "label": "Servo4_RearCover",
+    "file": "Hardware/Servo4_RearCover.FCStd",
+    "object": "Servo4_RearCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo4_MotorCore",
+    "label": "Servo4_MotorCore",
+    "file": "Hardware/Servo4_MotorCore.FCStd",
+    "object": "Servo4_MotorCore",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo4_PCB",
+    "label": "Servo4_PCB",
+    "file": "Hardware/Servo4_PCB.FCStd",
+    "object": "Servo4_PCB",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo4_OutputGear_Component",
+    "label": "Servo4_OutputGear",
+    "file": "Hardware/Servo4_OutputGear_Component.FCStd",
+    "object": "Servo4_OutputGear_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo4_DriveHorn_Component",
+    "label": "Servo4_DriveHorn",
+    "file": "Hardware/Servo4_DriveHorn_Component.FCStd",
+    "object": "Servo4_DriveHorn_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo4_PassiveHorn_Component",
+    "label": "Servo4_PassiveHorn",
+    "file": "Hardware/Servo4_PassiveHorn_Component.FCStd",
+    "object": "Servo4_PassiveHorn_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo5_Case",
+    "label": "Servo5_Case",
+    "file": "Hardware/Servo5_Case.FCStd",
+    "object": "Servo5_Case",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo5_FrontCover",
+    "label": "Servo5_FrontCover",
+    "file": "Hardware/Servo5_FrontCover.FCStd",
+    "object": "Servo5_FrontCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo5_RearCover",
+    "label": "Servo5_RearCover",
+    "file": "Hardware/Servo5_RearCover.FCStd",
+    "object": "Servo5_RearCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo5_MotorCore",
+    "label": "Servo5_MotorCore",
+    "file": "Hardware/Servo5_MotorCore.FCStd",
+    "object": "Servo5_MotorCore",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo5_PCB",
+    "label": "Servo5_PCB",
+    "file": "Hardware/Servo5_PCB.FCStd",
+    "object": "Servo5_PCB",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo5_OutputGear_Component",
+    "label": "Servo5_OutputGear",
+    "file": "Hardware/Servo5_OutputGear_Component.FCStd",
+    "object": "Servo5_OutputGear_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo5_DriveHorn_Component",
+    "label": "Servo5_DriveHorn",
+    "file": "Hardware/Servo5_DriveHorn_Component.FCStd",
+    "object": "Servo5_DriveHorn_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo6_Case",
+    "label": "Servo6_Case",
+    "file": "Hardware/Servo6_Case.FCStd",
+    "object": "Servo6_Case",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo6_FrontCover",
+    "label": "Servo6_FrontCover",
+    "file": "Hardware/Servo6_FrontCover.FCStd",
+    "object": "Servo6_FrontCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo6_RearCover",
+    "label": "Servo6_RearCover",
+    "file": "Hardware/Servo6_RearCover.FCStd",
+    "object": "Servo6_RearCover",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo6_MotorCore",
+    "label": "Servo6_MotorCore",
+    "file": "Hardware/Servo6_MotorCore.FCStd",
+    "object": "Servo6_MotorCore",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo6_PCB",
+    "label": "Servo6_PCB",
+    "file": "Hardware/Servo6_PCB.FCStd",
+    "object": "Servo6_PCB",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo6_OutputGear_Component",
+    "label": "Servo6_OutputGear",
+    "file": "Hardware/Servo6_OutputGear_Component.FCStd",
+    "object": "Servo6_OutputGear_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo6_DriveHorn_Component",
+    "label": "Servo6_DriveHorn",
+    "file": "Hardware/Servo6_DriveHorn_Component.FCStd",
+    "object": "Servo6_DriveHorn_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "Servo6_PassiveHorn_Component",
+    "label": "Servo6_PassiveHorn",
+    "file": "Hardware/Servo6_PassiveHorn_Component.FCStd",
+    "object": "Servo6_PassiveHorn_Component",
+    "printed": false,
+    "empty": false
+  },
+  {
+    "name": "CustomTerminalLink",
+    "label": "CustomTerminalLink (empty \u2014 design here)",
+    "file": "PrintedParts/CustomTerminalLink.FCStd",
+    "object": "CustomTerminalLink",
+    "printed": true,
+    "empty": true
+  }
+]

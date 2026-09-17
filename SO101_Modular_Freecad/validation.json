@@ -1,0 +1,16 @@
+{
+  "fresh_open_verified": true,
+  "empty_body_update_verified": true,
+  "relocated_folder_verified": true,
+  "upstream_joint_verified": true,
+  "self_contained_component_documents": 62,
+  "external_links": 62,
+  "errors": [],
+  "components": 62,
+  "physical_printed_parts": 11,
+  "printed_bodies": 12,
+  "hardware": 50,
+  "placement_geometry_verified": true,
+  "body_tip_update_verified": true,
+  "joint_motion_verified": true
+}
